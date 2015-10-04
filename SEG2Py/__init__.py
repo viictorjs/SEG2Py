@@ -40,7 +40,7 @@ def plotSEG2(obspy_stream, *args, **kwargs):
 
             elif kwargs[i] == False:
 
-                amplitude_shading = False
+                pass
 
             else:
 
@@ -55,7 +55,7 @@ def plotSEG2(obspy_stream, *args, **kwargs):
 
             elif kwargs[i] == False:
 
-                clip = False
+                pass
 
             else:
 
@@ -70,7 +70,7 @@ def plotSEG2(obspy_stream, *args, **kwargs):
 
             elif kwargs[i] == False:
 
-                invertY = False
+                pass
 
             else:
 
