@@ -1,5 +1,5 @@
 # SEG2Py
-SEG2Py is a Python 3 module availeble for Windows, Linux and MAC OX that works around the ObsPy framework offering a flexible and easy way to visualize SEG2 waveform data.
+SEG2Py is a Python 3 module tested on Windows and Linux that works around the ObsPy framework offering a flexible and easy way to visualize SEG2 waveform data.
 
 Dependencies: ObsPy (which depends on Matplotlib, Numpy, Scipy and others)
 
