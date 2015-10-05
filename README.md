@@ -1,5 +1,5 @@
 # SEG2Py
-SEG2Py is a under development Python 3 module tested on Windows and Linux that works around the ObsPy framework. It offers a flexible and easy way to visualize SEG2 seismic sections.
+SEG2Py is an under development Python 3 module tested on Windows and Linux that works around the ObsPy framework. It offers a flexible and easy way to visualize SEG2 seismic sections.
 
 Dependencies: ObsPy (which depends on Matplotlib, Numpy, Scipy and others).
 
