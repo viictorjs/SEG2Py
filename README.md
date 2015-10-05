@@ -20,7 +20,7 @@ How to install: use `pip install SEG2Py`
       - `clip`(**optional - True/False**): if True all amplitudes superposition will be cutted off (*default = False*);
       - `invertY`(**optional - True/False**): if True will invert the time axis (*default = False*).
       - `record_start`(**optional - int/float**): sets where (in miliseconds) the time axis will start (*default = 0*);
-      - `record_end`(**optional - int/float**): sets where (in miliseconds) the time axis will end in miliseconds (*default = the ObsPy stream original record length*).
+      - `record_end`(**optional - int/float**): sets where (in miliseconds) the time axis will end (*default = the ObsPy stream original record length*).
     
   - Usage sample: 
       ```
