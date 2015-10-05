@@ -14,8 +14,8 @@ How to install: use `pip install SEG2Py`
     - Parameters:
     
       - `obspy_stream`(**required**): ObsPy stream object returned after an ObsPy read( );
-      - `normalized`(**optional - True/False**): if True the traces are normalized against each trace maximum (*default = True*);
-      - `gain`(**optional - int/float**): energy gain factor to be applied on each trace amplitudes (*default = 1*);
+      - `normalized`(**optional - True/False**): if True the traces are normalized against each trace's maximum (*default = True*);
+      - `gain`(**optional - int/float**): energy gain factor to be applied on each trace's amplitudes (*default = 1*);
       - `shading`(**optional - True/False**): if True all the negative amplitudes of each trace will be shaded (*default = False*);
       - `clip`(**optional - True/False**): if True all amplitudes superposition will be cutted off (*default = False*);
       - `invertY`(**optional - True/False**): if True will invert the time axis (*default = False*).
